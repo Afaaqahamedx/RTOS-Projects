@@ -1,0 +1,3 @@
+2. Write a RTOS code to implement the following scenario
+   Task 1 reads a string from uart0 , then task 2 blinks the LEDS for 5 times and finally task 3- displays the string on LCD
+

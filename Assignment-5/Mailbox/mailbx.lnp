@@ -1,0 +1,9 @@
+--cpu ARM7TDMI
+".\rtx_config.o"
+".\startup.o"
+".\mailbox_uart.o"
+C:\Keil_v5\ARM\RV31\LIB\RTX_ARM_L.LIB
+--library_type=microlib --strict --scatter ".\mailbx.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\mailbx.map" -o .\mailbx.axf

@@ -1,0 +1,9 @@
+.\rtx-mailbox-int-adc5.o: RTX-Mailbox-INT-ADC5.c
+.\rtx-mailbox-int-adc5.o: C:\Keil_v5\ARM\RV31\INC\RTL.h
+.\rtx-mailbox-int-adc5.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\rtx-mailbox-int-adc5.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h
+.\rtx-mailbox-int-adc5.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\rtx-mailbox-int-adc5.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+.\rtx-mailbox-int-adc5.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+.\rtx-mailbox-int-adc5.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\rtx-mailbox-int-adc5.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h

@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\LEGION\Desktop\Project Junks\RTOS\RTOS ASSIGN TEAM 12\Team_12_ARM\Assignment-1\Code\m1.uvproj
+Project File Date:  12/11/2022
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling m1.c...
+m1.c(390): warning:  #61-D: integer operation result is out of range
+      while( (AD0DR1 & (1<<31)) == 0 );  //Check the DONE bit in ADC Data register
+m1.c(390): warning:  #68-D: integer conversion resulted in a change of sign
+      while( (AD0DR1 & (1<<31)) == 0 );  //Check the DONE bit in ADC Data register
+m1.c(404): warning:  #223-D: function "sprintf" declared implicitly
+      sprintf(displayadc, "adcvalue=%f", adcvalue); 
+m1.c(416): warning:  #1-D: last line of file ends without a newline
+  }
+m1.c(343): warning:  #550-D: variable "brightness" was set but never used
+  float brightness;
+m1.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=5708 RO-data=16 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\m1.axf" - 0 Error(s), 5 Warning(s).
+</pre>
+</body>
+</html>
+
+m1.c(103): warning:  #177-D: variable "temp" was declared but never referenced
+   unsigned int dutycycle, result, temp;
+m1.c: 6 warnings, 2 errors
+".\m1.axf" - 2 Error(s), 6 Warning(s).
+Target not created
+sult, temp;
+m1.c(49): warning:  #177-D: variable "temp" was declared but never referenced
+   unsigned int dutycycle, result, temp;
+m1.c: 8 warnings, 2 errors
+".\m1.axf" - 2 Error(s), 8 Warning(s).
+Target not created
+eferenced
+   unsigned int dutycycle, result, temp;
+m1.c: 8 warnings, 3 errors
+".\m1.axf" - 3 Error(s), 8 Warning(s).
+Target not created

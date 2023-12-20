@@ -1,0 +1,10 @@
+Imp note: Program is to be tested on
+mini board because the pin for PWM is assigned to P0.0.
+which is shared by the UART txD0 pin.
+ 
+
+
+
+1. Stores would like to minimize electricity use for lightning. 
+One option is to control brightness of LED used. 
+Help design a suitable system for the stores

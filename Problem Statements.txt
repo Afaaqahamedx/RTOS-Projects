@@ -1,0 +1,50 @@
+Code details :
+-----------------------------------------------------------------------------------------------------------------------------
+
+Folders 		Question:
+
+Assignment 1:	Stores would like to minimize electricity use for lightning. 
+				One option is to control brightness of LED used. 
+				Help design a suitable system for the stores
+
+ 
+Assignment 2:	Write a RTOS code to implement the following scenario
+   				Task 1 reads a string from uart0 , 
+				then task 2 blinks the LEDS for 5 times and finally task 3- displays the string on LCD
+
+
+Assignment 3:	Write a RTOS code to display “interrupt generated” on UART1 on 
+				occurrence of external interrupt EINT0
+
+
+Assignment 4:	Write a RTOS code to demonstrate the concept of Wait-and-signal synchronization  
+				between multiple tasks.
+
+
+
+Assignment 5: 	Implement a RTOS code to schedule 2 tasks in round robin where  
+				Task1 – reads a key from keypad 
+				Task 2 - writes a key to LCD
+
+
+Assignment 6:	Write a RTOS code  for cortex  m3 lpc1768 to test 
+				Internal ADC using Mailbox
+
+
+
+ 
+Course project: Stores would like to minimize electricity use for lightning.
+ 				One option is to control brightness of LED used.
+ 				Help design a suitable system for the stores.
+
+
+				To implement the course project using RTX, We have used the
+				concept of interlocked one way data communication mailbox.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+NAME:				USN:
+Afaaqahamed N J		01FE21BEC409
+--------------------------------------------------------------------------------------------------------------------------------

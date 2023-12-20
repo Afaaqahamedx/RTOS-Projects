@@ -1,0 +1,8 @@
+7.  Stores would like to minimize electricity use for lightning.
+    One option is to control brightness of LED used.
+    Help design a suitable system for the stores.
+
+
+    To implement the course project using RTX, We have used the
+    concept of interlocked one way data communication mailbox.
+

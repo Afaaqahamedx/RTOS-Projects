@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'm1.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"m1.o"'
+### ADS-LD Command completed:
+--device DARMP "startup.o" "m1.o" --library_type=microlib --strict --scatter "m1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\m1.map" -o "m1.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'm1.axf'
+### ADS-LD Command File: 'm1.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'm1.lnp', Handle=0x00000588
+### Writing '.lnp' file
+### ADS-LD Command file 'm1.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

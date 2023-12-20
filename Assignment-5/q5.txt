@@ -1,0 +1,4 @@
+5. Implement a RTOS code to schedule 2 tasks in round robin where  
+Task1 – reads a key from keypad 
+Task 2 - writes a key to LCD
+

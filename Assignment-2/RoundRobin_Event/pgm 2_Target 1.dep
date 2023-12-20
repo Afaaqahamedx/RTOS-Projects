@@ -1,0 +1,10 @@
+Dependencies for Project 'pgm 2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\pgm 2.c)(0x639D7837)(-c --cpu ARM7TDMI -D__RTX -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o ".\pgm 2.o" --omf_browse ".\pgm 2.crf" --depend ".\pgm 2.d")
+I (C:\Keil_v5\ARM\RV31\INC\rtl.h)(0x559D03A0)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x559CFE30)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDF5A6)
+F (.\RTX_Config.c)(0x635CEF03)(-c --cpu ARM7TDMI -D__RTX -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\rtx_config.o --omf_browse .\rtx_config.crf --depend .\rtx_config.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x559D03A0)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC21xx.H)(0x559CFE30)
+I (C:\Keil_v5\ARM\RV31\INC\RTX_lib.c)(0x559D03A0)
+F (.\Startup.s)(0x6357B24F)(--cpu ARM7TDMI --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)

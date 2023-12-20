@@ -1,0 +1,22 @@
+Dependencies for Project 'RTX-Mailbox-INT-ADC5', Target 'Target 1': (DO NOT MODIFY !)
+F (.\RTX-Mailbox-INT-ADC5.c)(0x639B6A50)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-o .\rtx-mailbox-int-adc5.o --omf_browse .\rtx-mailbox-int-adc5.crf --depend .\rtx-mailbox-int-adc5.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x559D03A0)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x559D04DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C418A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDF5A6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA869C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C418A)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x57037F3A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDF5A6)
+F (.\system_LPC17xx.c)(0x55521F9E)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FDF5A6)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x559D04DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C418A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA869C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C418A)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x57037F3A)
+F (.\RTX_Conf_CM.c)(0x56390A28)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-o .\rtx_conf_cm.o --omf_browse .\rtx_conf_cm.crf --depend .\rtx_conf_cm.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x559D03A0)
+I (C:\Keil_v5\ARM\RV31\INC\RTX_lib.c)(0x559D03A0)
+F (.\startup_LPC17xx.s)(0x4DA475A4)(--cpu Cortex-M3 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (.\Abstract.txt)(0x5639083A)()

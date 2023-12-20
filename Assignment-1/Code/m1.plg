@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\Arm PWM\Code\m1.uvproj
+Project File Date:  09/02/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling m1.c...
+m1.c(210): warning:  #61-D: integer operation result is out of range
+m1.c(210): warning:  #68-D: integer conversion resulted in a change of sign
+m1.c(225): warning:  #223-D: function "sprintf" declared implicitly
+m1.c(235): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5816 RO-data=16 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+"m1.axf" - 0 Error(s), 4 Warning(s).

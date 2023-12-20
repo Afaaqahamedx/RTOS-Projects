@@ -1,0 +1,9 @@
+--cpu ARM7TDMI
+".\pgm 2.o"
+".\rtx_config.o"
+".\startup.o"
+C:\Keil_v5\ARM\RV31\LIB\RTX_ARM_L.LIB
+--strict --scatter ".\pgm 2.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\pgm 2.map" -o ".\pgm 2.axf"

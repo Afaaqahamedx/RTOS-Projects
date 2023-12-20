@@ -1,0 +1,2 @@
+4. write a RTOS code to demonstrate the concept of Wait-and-signal synchronization  
+between multiple tasks.

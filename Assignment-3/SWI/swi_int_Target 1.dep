@@ -1,0 +1,11 @@
+Dependencies for Project 'swi_int', Target 'Target 1': (DO NOT MODIFY !)
+F (.\swi_prgm.c)(0x636C976A)(-c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\swi_prgm.o --omf_browse .\swi_prgm.crf --depend .\swi_prgm.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.H)(0x559D03A0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FDF5A6)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc21xx.h)(0x559CFE30)
+F (.\RTX_Config.c)(0x636BAF4C)(-c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-o .\rtx_config.o --omf_browse .\rtx_config.crf --depend .\rtx_config.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x559D03A0)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC21xx.H)(0x559CFE30)
+I (C:\Keil_v5\ARM\RV31\INC\RTX_lib.c)(0x559D03A0)
+F (.\Startup.s)(0x636A7171)(--cpu ARM7TDMI --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\SWI_Table.s)(0x636A7172)(--cpu ARM7TDMI --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--list .\swi_table.lst --xref -o .\swi_table.o --depend .\swi_table.d)

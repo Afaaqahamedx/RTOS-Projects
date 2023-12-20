@@ -1,0 +1,2 @@
+3. Write a RTOS code to display “interrupt generated” on UART1 on 
+occurrence of external interrupt EINT0
